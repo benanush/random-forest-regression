@@ -1,0 +1,55 @@
+City,District,Property_Type,Bedrooms,Bathrooms,Square_Feet,Age_of_Property,Distance_to_Center,Price_USD
+New York,Manhattan,Apartment,2,2,1200,10,2.5,950000
+Los Angeles,Santa Monica,House,4,3,2500,15,5.0,1200000
+Chicago,Loop,Condo,1,1,850,5,0.5,450000
+Houston,Sugar Land,House,3,2,2200,20,15.0,380000
+Phoenix,Scottsdale,House,4,4,3200,8,12.0,850000
+Philadelphia,Center City,Apartment,2,1,1100,40,1.2,520000
+San Antonio,Alamo Heights,House,3,2,1800,25,8.0,340000
+San Diego,La Jolla,Condo,2,2,1300,12,6.5,780000
+Dallas,Uptown,Apartment,1,1,900,3,1.0,410000
+San Jose,Willow Glen,House,4,3,2100,30,4.0,920000
+Austin,Downtown,Condo,2,2,1150,2,0.8,650000
+Jacksonville,Riverside,House,3,2,1600,50,3.5,290000
+San Francisco,Mission,Apartment,2,1,1000,60,2.0,1100000
+Columbus,Short North,Condo,1,1,750,10,1.5,320000
+Indianapolis,Broad Ripple,House,3,2,1500,35,7.0,260000
+Fort Worth,Tanglewood,House,4,3,2800,18,9.0,540000
+Charlotte,NoDa,Apartment,2,2,1050,5,4.0,380000
+Seattle,Capitol Hill,Condo,1,1,800,15,1.8,590000
+Denver,LoDo,Apartment,2,2,1100,12,0.5,610000
+El Paso,Westside,House,3,2,1900,22,10.0,210000
+Detroit,Midtown,Condo,2,1,950,45,2.0,180000
+Boston,Back Bay,Apartment,3,2,1400,80,0.3,1500000
+Memphis,Midtown,House,3,2,1700,40,5.5,220000
+Nashville,East Nashville,House,2,2,1300,10,4.5,450000
+Portland,Pearl District,Condo,1,1,700,7,1.0,480000
+Oklahoma City,Bricktown,Apartment,2,1,950,20,6.0,300000
+Las Vegas,The Strip,House,4,3,2600,15,3.0,750000
+Louisville,Old Louisville,Condo,2,2,1200,30,2.5,350000
+Baltimore,Fells Point,Apartment,1,1,850,25,1.5,400000
+Milwaukee,Third Ward,House,3,2,2000,18,4.0,330000
+Albuquerque,Nob Hill,Condo,2,1,900,12,7.0,280000
+Tucson,Sam Hughes,House,3,2,1750,22,9.0,240000
+Fresno,Woodward Park,Apartment,2,2,1000,8,5.0,310000
+Sacramento,Midtown,House,4,3,2400,14,6.0,680000
+Kansas City,Country Club Plaza,Condo,1,1,800,28,3.0,290000
+Long Beach,Eastside,Apartment,2,1,950,10,4.0,520000
+Mesa,East Mesa,House,3,2,1800,35,11.0,270000
+Atlanta,Midtown,Condo,2,2,1100,5,2.0,600000
+Colorado Springs,Old Colorado City,House,4,3,2300,20,8.0,450000
+Virginia Beach,Oceanfront,Apartment,2,1,900,15,1.0,480000
+Raleigh,North Hills,House,3,2,1600,12,7.0,350000
+Omaha,Downtown,Condo,1,1,750,30,2.5,220000
+Miami,Brickell,Apartment,2,2,1150,7,0.5,700000
+Cleveland,Ohio City,House,3,2,1900,40,6.0,250000
+Tulsa,Midtown,Condo,2,1,850,18,4.0,230000
+Minneapolis,North Loop,Apartment,2,2,1050,10,1.5,550000
+Wichita,College Hill,House,3,2,1700,25,9.0,200000
+New Orleans,French Quarter,Condo,1,1,800,50,0.8,400000
+Arlington,Crystal City,Apartment,2,1,950,15,3.0,600000
+Bakersfield,The Foothills,House,4,3,2400,30,12.0,320000
+Tampa,Ybor City,Condo,2,2,1000,20,5.0,330000
+Aurora,Cherry Creek,House,3,2,1800,22,7.0,410000
+Honolulu,Waikiki,Apartment,2,2,1100,8,1.0,900000
+Anaheim,West Anaheim,House,4,3,2600,18,6.0,750000
